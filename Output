@@ -1,0 +1,81 @@
+======= RESTART: C:\Users\ashas\OneDrive\Documents\ASSIGNMENT 5\QUES 1.py ======
+Enter the the string :rudransh
+hsnardur
+
+======= RESTART: C:\Users\ashas\OneDrive\Documents\ASSIGNMENT 5\QUES 2.py ======
+Enter the minimum value :5
+Enter the maximum value: 25
+Enter the number for divisibility check :5
+5
+10
+15
+20
+25
+
+======= RESTART: C:\Users\ashas\OneDrive\Documents\ASSIGNMENT 5\QUES 3.py ======
+Enter the length of side:6
+Enter the length of side:8
+Enter the length of side:10
+24.0
+======= RESTART: C:\Users\ashas\OneDrive\Documents\ASSIGNMENT 5\QUES 4.py ======
+Enter the no. of rows :9
+*
+**
+***
+****
+*****
+****
+***
+**
+*
+
+======= RESTART: C:\Users\ashas\OneDrive\Documents\ASSIGNMENT 5\QUES 5.py ======
+Enter the number of rows5
+
+A
+BC
+DEF
+GHIJ
+KLMNO
+
+======= RESTART: C:\Users\ashas\OneDrive\Documents\ASSIGNMENT 5\QUES 6.py ======
+Enter the Lowest Range Value : 2
+Enter the Upper Range Value : 20
+The Prime Numbers in this range are : 
+2
+3
+5
+7
+11
+13
+17
+19
+
+======= RESTART: C:\Users\ashas\OneDrive\Documents\ASSIGNMENT 5\QUES 7.py ======
+The numbers divisible by 11 and are multiple of 7 are : [77, 154, 231, 308, 385, 462]
+======= RESTART: C:\Users\ashas\OneDrive\Documents\ASSIGNMENT 5\QUES 8.py ======
+Enter the number 30
+Enter the number 20
+Enter the number -5
+Enter the number 4
+Enter the number 65454
+Enter the number 6465
+Enter the number 65346
+Enter the number 55
+Enter the number 5
+Enter the number 5
+Positive numbers are:  [30, 20, 4, 65454, 6465, 65346, 55, 5, 5]
+Negative numbers are:  [-5]
+Even numbers are:  [30, 20, 4, 65454, 65346]
+Odd numbers are:  [-5, 6465, 55, 5, 5]
+Number of times each number occurs in the List {30: 1, 20: 1, -5: 1, 4: 1, 65454: 1, 6465: 1, 65346: 1, 55: 1, 5: 2}
+5
+======= RESTART: C:\Users\ashas\OneDrive\Documents\ASSIGNMENT 5\QUES 9.py ======
+Number of words: 5
+Enter the word: apple 
+Enter the word: banana
+Enter the word: orange
+Enter the word: door 
+Enter the word: america
+Number of occurences:  {'apple ': 1, 'banana': 1, 'orange': 1, 'door ': 1, 'america': 1}
+
